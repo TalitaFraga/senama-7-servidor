@@ -1,0 +1,67 @@
+[
+    {
+       "name":"Toy Story",
+       "release_year":1995,
+       "director":"John Lasseter"
+    },
+    {
+       "name":"A Bug;s Life",
+       "release_year":1998,
+       "director":"John Lasseter"
+    },
+    {
+       "name":"Toy Story 2",
+       "release_year":1999,
+       "director":"John Lasseter"
+    },
+    {
+       "name":"Monsters, Inc.",
+       "release_year":2001,
+       "director":"Pete Docter"
+    },
+    {
+       "name":"Finding Nemo",
+       "release_year":2003,
+       "director":"Andrew Stanton"
+    },
+    {
+       "name":"The Incredibles",
+       "release_year":2004,
+       "director":"Brad Bird"
+    },
+    {
+       "name":"Cars",
+       "release_year":2006,
+       "director":"John Lasseter"
+    },
+    {
+       "name":"Ratattouille",
+       "release_year":2007,
+       "director":"Brad Bird"
+    },
+    {
+       "name":"Wall-E",
+       "release_year":2008,
+       "director":"Andrew Stanton"
+    },
+    {
+       "name":"Up",
+       "release_year":2009,
+       "director":"Pete Docter"
+    },
+    {
+       "name":"Toy Story 3",
+       "release_year":2010,
+       "director":"Lee Unkrich"
+    },
+    {
+       "name":"Cars 2",
+       "release_year":2011,
+       "director":"John Lasseter"
+    },
+    {
+       "name":"Brave",
+       "release_year":2012,
+       "director":"Mark Andrews & Brenda Chapman"
+    }
+ ]

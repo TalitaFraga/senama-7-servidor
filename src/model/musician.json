@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Frédéric François Chopin",
+        "Country": "Poland",
+        "period": "Romantic",
+        "Instrument": "piano"
+    },
+    {  "name": "Ludwig van Beethoven",
+        "Country": "Germany",
+        "period": "Classic",
+        "Instrument": "piano, composer"
+    },
+    {
+        "name": "Johann Sebastian Bach",
+        "Country": "Germany",
+        "period": "Baroque",
+        "Instrument": "harpsichord"
+    },
+    {
+        "name": "Johannes Brahms",
+        "Country": "Germany",
+        "period": "Romantic",
+        "Instrument": "piano"
+    },
+    {
+        "name": "Pyotr Ilyich Tchaikovsky",
+        "Country": "Russia",
+        "period": "Romantic",
+        "Instrument": "composer"
+    },
+    {
+        "name": "Robert Schumann",
+        "Country": "Germany",
+        "period": "Romantic",
+        "Instrument": "Piano"
+    },
+    {
+        "name": "Franz Peter Schubert",
+        "Country": "Austria",
+        "period": "classical, Romantic",
+        "Instrument": "Composer"
+    },
+    {
+        "name": "Franz Liszt",
+        "Country": "Hungary",
+        "period": "Romantic",
+        "Instrument": "Piano"
+    },
+    {
+        "name": "Antonio Lucio Vivaldi",
+        "Country": "Italy",
+        "period": "Baroque",
+        "Instrument": "Violin"
+    },
+    {
+        "name": "Claude Debussy",
+        "Country": "France",
+        "period": "Impresionist",
+        "Instrument": "Piano"
+    }
+
+]
